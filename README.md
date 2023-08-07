@@ -27,3 +27,7 @@
 
     5. While in backend use :- npm start , to start the backend server
     6. Now cd frontend , and either open the index.html using Live server or cop its path and paste in the browser. The App will start to show the result.
+
+## Api that we are calling from backend
+
+API = "http://localhost:4000/api/topCoins"
